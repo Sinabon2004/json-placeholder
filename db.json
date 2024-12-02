@@ -3,18 +3,18 @@
     "type": "nochnou_fest",
     "name": "1",
     "timeline": [
-    { "id": 1, "dateRange": "00:00",  "title": "...", "geo": "...", "additional-info": "..." },
-    { "id": 1, "dateRange": "00:00",  "title": "...", "geo": "...", "additional-info": "..." },
-    { "id": 1, "dateRange": "00:00",  "title": "...", "geo": "...", "additional-info": "..." },
-  ],
+      { "id": 1, "dateRange": "00:00", "title": "...", "geo": "...", "additional-info": "..." },
+      { "id": 2, "dateRange": "00:00", "title": "...", "geo": "...", "additional-info": "..." },
+      { "id": 3, "dateRange": "00:00", "title": "...", "geo": "...", "additional-info": "..." }
+    ]
   },
   {
     "type": "noch_uni",
     "name": "1",
     "timeline": [
-    { "id": 1, "dateRange": "00:00",  "title": "...", "geo": "...", "additional-info": "..." },
-    { "id": 1, "dateRange": "00:00",  "title": "...", "geo": "...", "additional-info": "..." },
-    { "id": 1, "dateRange": "00:00",  "title": "...", "geo": "...", "additional-info": "..." },
-  ],
+      { "id": 1, "dateRange": "00:00", "title": "...", "geo": "...", "additional-info": "..." },
+      { "id": 2, "dateRange": "00:00", "title": "...", "geo": "...", "additional-info": "..." },
+      { "id": 3, "dateRange": "00:00", "title": "...", "geo": "...", "additional-info": "..." }
+    ]
   }
 ]
