@@ -1,14 +1,20 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+[
+  {
+    "type": "nochnou_fest",
+    "name": "1",
+    "timeline": [
+    { "id": 1, "dateRange": "00:00",  "title": "...", "geo": "...", "additional-info": "..." },
+    { "id": 1, "dateRange": "00:00",  "title": "...", "geo": "...", "additional-info": "..." },
+    { "id": 1, "dateRange": "00:00",  "title": "...", "geo": "...", "additional-info": "..." },
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  },
+  {
+    "type": "noch_uni",
+    "name": "1",
+    "timeline": [
+    { "id": 1, "dateRange": "00:00",  "title": "...", "geo": "...", "additional-info": "..." },
+    { "id": 1, "dateRange": "00:00",  "title": "...", "geo": "...", "additional-info": "..." },
+    { "id": 1, "dateRange": "00:00",  "title": "...", "geo": "...", "additional-info": "..." },
   ],
-  "profile": {
-    "name": "typicode"
   }
-}
+]
