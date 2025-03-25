@@ -1,22 +1,22 @@
 {
-  "records":[
-  {
-    id: 1,
-    title: "title1",
-    summary: "summary1",
-    details: "details1",
-  },
+  "records": [
     {
-    id: 2,
-    title: "title2",
-    summary: "summary2",
-    details: "details2",
-  },
+      "id": 1,
+      "title": "title1",
+      "summary": "summary1",
+      "details": "details1"
+    },
     {
-    id: 3,
-    title: "title3",
-    summary: "summary3",
-    details: "details3",
-  },
+      "id": 2,
+      "title": "title2",
+      "summary": "summary2",
+      "details": "details2"
+    },
+    {
+      "id": 3,
+      "title": "title3",
+      "summary": "summary3",
+      "details": "details3"
+    }
   ]
 }
