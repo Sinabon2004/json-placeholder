@@ -1,23 +1,22 @@
 {
-  "timelines":[
+  "records":[
   {
-    "type": "nochnou_fest",
-    "name": "1",
-    "items": [
-      { "id": 1, "dateRange": "00:00", "title": "...", "geo": "...", "additional-info": "..." },
-      { "id": 2, "dateRange": "00:00", "title": "...", "geo": "...", "additional-info": "..." },
-      { "id": 3, "dateRange": "00:00", "title": "...", "geo": "...", "additional-info": "..." }
-    ]
+    id: 1,
+    title: "title1",
+    summary: "summary1",
+    details: "details1",
   },
-  {
-    "type": "noch_uni",
-    "name": "1",
-    "items": [
-      { "id": 1, "dateRange": "00:00", "title": "...", "geo": "...", "additional-info": "..." },
-      { "id": 2, "dateRange": "00:00", "title": "...", "geo": "...", "additional-info": "..." },
-      { "id": 3, "dateRange": "00:00", "title": "...", "geo": "...", "additional-info": "..." }
-    ]
-  }
-]
-
+    {
+    id: 2,
+    title: "title2",
+    summary: "summary2",
+    details: "details2",
+  },
+    {
+    id: 3,
+    title: "title3",
+    summary: "summary3",
+    details: "details3",
+  },
+  ]
 }
